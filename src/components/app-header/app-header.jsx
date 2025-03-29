@@ -1,11 +1,12 @@
 import './app-header.css';
+import { Header } from './app-header.styled';
 
 const AppHeader = () => {
     return (
-        <div className="app-header d-flex">
+        <Header>
             <h1>My Name</h1>
             <h2>5 notes, favorite 0</h2>
-        </div>
+        </Header>
     );
 };
 
