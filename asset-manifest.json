@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petric_react/static/css/main.f2442bcd.css",
+    "main.js": "/petric_react/static/js/main.b8faa7c9.js",
+    "index.html": "/petric_react/index.html",
+    "main.f2442bcd.css.map": "/petric_react/static/css/main.f2442bcd.css.map",
+    "main.b8faa7c9.js.map": "/petric_react/static/js/main.b8faa7c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2442bcd.css",
+    "static/js/main.b8faa7c9.js"
+  ]
+}
